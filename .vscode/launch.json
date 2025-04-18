@@ -1,0 +1,211 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "rod_cutting",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Subsequences.rod_cutting",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "unbounded_knapsack",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Subsequences.unbounded_knapsack",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "coin_changeII",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Subsequences.coin_changeII",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "target_sum",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Subsequences.target_sum",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "coin_change",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Subsequences.coin_change",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "assign_cookies",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Subsequences.assign_cookies",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "partition_with_given_diff",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Subsequences.partition_with_given_diff",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "count_subsets_with_sum_k",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Subsequences.count_subsets_with_sum_k",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "partition_equal_subset_sum",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Subsequences.partition_equal_subset_sum",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "subset_sum_to_k",
+            "request": "launch",
+            "mainClass": "Dp.Dp_On_Subsequences.subset_sum_to_k",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "minimum_path_sum",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Grids.minimum_path_sum",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "unique_pathsII",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Grids.unique_pathsII",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "unique_paths",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Grids.unique_paths",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "Ninjas_training",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Grids.Ninjas_training",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "Ninjas_training",
+            "request": "launch",
+            "mainClass": "Ninjas_training",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "House_RobberII",
+            "request": "launch",
+            "mainClass": "Dp.Liner_DP.House_RobberII",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "House_Robber",
+            "request": "launch",
+            "mainClass": "Dp.Liner_DP.House_Robber",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "frog_jumpII",
+            "request": "launch",
+            "mainClass": "Dp.Liner_DP.frog_jumpII",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "FrogJump",
+            "request": "launch",
+            "mainClass": "Dp.Liner_DP.FrogJump",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "frog_jump",
+            "request": "launch",
+            "mainClass": "Dp.Liner_DP.frog_jump",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "climbing_stairs",
+            "request": "launch",
+            "mainClass": "Dp.Liner_DP.climbing_stairs",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "climbing_stairs",
+            "request": "launch",
+            "mainClass": "Dp.climbing_stairs",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "Dp.Liner_DP.fibonacci",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "name": "C/C++ Runner: Debug Session",
+            "type": "cppdbg",
+            "request": "launch",
+            "args": [],
+            "stopAtEntry": false,
+            "externalConsole": true,
+            "cwd": "c:/Users/shank/OneDrive/Documents/PAIN/Practice",
+            "program": "c:/Users/shank/OneDrive/Documents/PAIN/Practice/build/Debug/outDebug",
+            "MIMode": "gdb",
+            "miDebuggerPath": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        },
+        {
+            "name": "C/C++: gcc.exe build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: gcc.exe build active file"
+        }
+    ]
+}
