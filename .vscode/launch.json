@@ -3,6 +3,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "n_th_tribonacci_number",
+            "request": "launch",
+            "mainClass": "Dp.Liner_DP.n_th_tribonacci_number",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "triangle",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Grids.triangle",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "mininum_falling_path_sum",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Grids.mininum_falling_path_sum",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Grids.Triangle",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "number_of_lis",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_LIS.number_of_lis",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "longest_bitonic_subsequence",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_LIS.longest_bitonic_subsequence",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "largest_divisibe_subset",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_LIS.largest_divisibe_subset",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "print_lis",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_LIS.print_lis",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "lis",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_LIS.lis",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "best_time_to_buy_and_sell_stock_II",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Stocks.best_time_to_buy_and_sell_stock_II",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "best_time_to_buy_and_sell_stock",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Stocks.best_time_to_buy_and_sell_stock",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "edit_distance",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Strings.edit_distance",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "delete_operation_for_2strings",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Strings.delete_operation_for_2strings",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "l_palindromic_s",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Strings.l_palindromic_s",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "print_lcs",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Strings.print_lcs",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "lcs",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Strings.lcs",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
             "name": "rod_cutting",
             "request": "launch",
             "mainClass": "Dp.Dp_on_Subsequences.rod_cutting",
