@@ -6,8 +6,7 @@ public class minimum_path_sum {
 
         System.out.println(solve(nums));
     }
-
-
+    
     public static int solve(int nums[][]){
         
         int m=nums.length;

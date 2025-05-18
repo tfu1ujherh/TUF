@@ -3,6 +3,153 @@
     "configurations": [
         {
             "type": "java",
+            "name": "decimal_to_binary",
+            "request": "launch",
+            "mainClass": "BitManipulation.Basic.decimal_to_binary",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "binary_to_decimal",
+            "request": "launch",
+            "mainClass": "BitManipulation.Basic.binary_to_decimal",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "N_Queeens_II",
+            "request": "launch",
+            "mainClass": "BackTracking.N_Queeens_II",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "N_Queens",
+            "request": "launch",
+            "mainClass": "BackTracking.N_Queens",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "pattern4",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "pattern6",
+            "request": "launch",
+            "mainClass": "pattern6",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "pattern5",
+            "request": "launch",
+            "mainClass": "pattern5",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "pattern5",
+            "request": "launch",
+            "mainClass": "Numbers.pattern5",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "Numbers.pattern4",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "Pattern.pattern4",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "pattern3",
+            "request": "launch",
+            "mainClass": "Numbers.pattern3",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "pattern3",
+            "request": "launch",
+            "mainClass": "Pattern.pattern3",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "Numbers.pattern2",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "Numbers.pattern1",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "queue_using_array",
+            "request": "launch",
+            "mainClass": "Stack_And_Queue.Learning.queue_using_array",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "stack_using_array",
+            "request": "launch",
+            "mainClass": "Stack_And_Queue.Learning.stack_using_array",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "StackUsingArray",
+            "request": "launch",
+            "mainClass": "StackUsingArray",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "stack_using_array",
+            "request": "launch",
+            "mainClass": "stack_using_array",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
             "name": "n_th_tribonacci_number",
             "request": "launch",
             "mainClass": "Dp.Liner_DP.n_th_tribonacci_number",

@@ -1,4 +1,4 @@
-package Arrays;
+package BitManipulation;
 
 public class practice {
     
