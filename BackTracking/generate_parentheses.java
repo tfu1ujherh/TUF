@@ -13,7 +13,6 @@ public class generate_parentheses {
 
         System.out.println(res);
 
-
     }
 
     public static void solve(int n,List<String>res,String ans,int open,int close){

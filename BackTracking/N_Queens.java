@@ -46,7 +46,7 @@ class N_Queens {
             rows.add(row);
             posDiagonal.add(row + col);
             negDiagonal.add(row - col);
-
+            
             // Move to the next column
             solve(n, col + 1, res, board, rows, posDiagonal, negDiagonal);
 

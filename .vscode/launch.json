@@ -3,6 +3,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "freqency_character",
+            "request": "launch",
+            "mainClass": "Strings.Medium.freqency_character",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "longest_word_in_sentence",
+            "request": "launch",
+            "mainClass": "Strings.Medium.longest_word_in_sentence",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "is_substring",
+            "request": "launch",
+            "mainClass": "Strings.Basic.is_substring",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "remove_spaces",
+            "request": "launch",
+            "mainClass": "Strings.Basic.remove_spaces",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "toggle_each_case",
+            "request": "launch",
+            "mainClass": "Strings.Basic.toggle_each_case",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "duplicates",
+            "request": "launch",
+            "mainClass": "Strings.Basic.duplicates",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "anagram",
+            "request": "launch",
+            "mainClass": "Strings.Basic.anagram",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "count_vowels_consonants",
+            "request": "launch",
+            "mainClass": "Strings.Basic.count_vowels_consonants",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "Strings.Basic.palindrome",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "reverse_string",
+            "request": "launch",
+            "mainClass": "Strings.Basic.reverse_string",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "countsubarrayswithsum",
+            "request": "launch",
+            "mainClass": "Arrays.Medium.countsubarrayswithsum",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "generate_parentheses",
+            "request": "launch",
+            "mainClass": "BackTracking.generate_parentheses",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
             "name": "decimal_to_binary",
             "request": "launch",
             "mainClass": "BitManipulation.Basic.decimal_to_binary",

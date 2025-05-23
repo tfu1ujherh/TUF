@@ -4,7 +4,7 @@ import java.util.*;
 
 public class combinations {
     public static void main(String[] args) {
-        
+
         int n=4;
         int k=2;
         List<List<Integer>>res=new ArrayList<>();
