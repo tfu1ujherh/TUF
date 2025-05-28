@@ -40,3 +40,35 @@ public class subset_sum_to_k {
         return dp[n - 1][k];
     }
 }
+
+
+
+//Method-2
+
+// class Solution {
+//     static Boolean isSubsetSum(int arr[], int sum) {
+//         int n = arr.length;
+//         boolean dp[][] = new boolean[n+1][sum+1];
+        
+//         // Base case: sum 0 can always be achieved with empty subset
+//         dp[0][0] = true;
+        
+//         // Initialize first column (sum 0)
+//         for(int i = 1; i <= n; i++) {
+//             dp[i][0] = true;
+//         }
+        
+//         // Fill the DP table
+//         for(int i = 1; i <= n; i++) {
+//             for(int j = 1; j <= sum; j++) {
+//                 if(arr[i-1] > j) {  // Corrected: using i-1 to access array
+//                     dp[i][j] = dp[i-1][j];
+//                 } else {
+//                     dp[i][j] = dp[i-1][j] || dp[i-1][j-arr[i-1]];
+//                 }
+//             }
+//         }
+        
+//         return dp[n][sum];
+//     }
+// }

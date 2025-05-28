@@ -3,6 +3,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "prefix_to_postfix",
+            "request": "launch",
+            "mainClass": "Stack_And_Queue.Infix_Prefix_Postfix_Conversions.prefix_to_postfix",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "postfix_to_prefix",
+            "request": "launch",
+            "mainClass": "Stack_And_Queue.Infix_Prefix_Postfix_Conversions.postfix_to_prefix",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "prefix_to_infix",
+            "request": "launch",
+            "mainClass": "Stack_And_Queue.Infix_Prefix_Postfix_Conversions.prefix_to_infix",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "postfix_to_infix",
+            "request": "launch",
+            "mainClass": "Stack_And_Queue.Infix_Prefix_Postfix_Conversions.postfix_to_infix",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "infix_to_postfix",
+            "request": "launch",
+            "mainClass": "Stack_And_Queue.Infix_Prefix_Postfix_Conversions.infix_to_postfix",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "subset_sum_to_k",
+            "request": "launch",
+            "mainClass": "Dp.Dp_on_Subsequences.subset_sum_to_k",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "find_substring_index",
+            "request": "launch",
+            "mainClass": "Strings.Medium.find_substring_index",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "roman_integer",
+            "request": "launch",
+            "mainClass": "Strings.Medium.roman_integer",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "integer_roman",
+            "request": "launch",
+            "mainClass": "Strings.Medium.integer_roman",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "remove_duplicates",
+            "request": "launch",
+            "mainClass": "Strings.Medium.remove_duplicates",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "check_rotation",
+            "request": "launch",
+            "mainClass": "Strings.Medium.check_rotation",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "count_occurences_substring",
+            "request": "launch",
+            "mainClass": "Strings.Medium.count_occurences_substring",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
+            "name": "first_non_repeating_character",
+            "request": "launch",
+            "mainClass": "Strings.Medium.first_non_repeating_character",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
             "name": "MergeSort",
             "request": "launch",
             "mainClass": "MergeSort",
