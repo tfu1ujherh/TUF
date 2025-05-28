@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "infix_to_prefix",
+            "request": "launch",
+            "mainClass": "Stack_And_Queue.Infix_Prefix_Postfix_Conversions.infix_to_prefix",
+            "projectName": "PAIN_82f24233"
+        },
+        {
+            "type": "java",
             "name": "prefix_to_postfix",
             "request": "launch",
             "mainClass": "Stack_And_Queue.Infix_Prefix_Postfix_Conversions.prefix_to_postfix",
